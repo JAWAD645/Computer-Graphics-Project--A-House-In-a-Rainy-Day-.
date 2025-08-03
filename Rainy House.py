@@ -25,7 +25,7 @@ def generate_raindrops():
 
     new_raindrops = []
     for i in raindrops:
-        i[1] -= 3  # Adjust the speed of raindrops 
+        i[1] -= 3  # Adjust the speed of the raindrops 
         if i[1] > -250:
             new_raindrops.append(i)
     raindrops = new_raindrops
