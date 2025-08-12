@@ -69,15 +69,15 @@ This project demonstrates:
 
 View(In day):
 
-<img src="assets/ring.jpg" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project--A-House-In-a-Rainy-Day-./blob/bc7460b8b7be2e3a4c2cb96525f048245d87a806/starts%20in%20night.png" alt="Ring Generator Preview" width="400">
 
-View(In night):
+View(At night):
 
-<img src="assets/ring.jpg" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project--A-House-In-a-Rainy-Day-./blob/bc7460b8b7be2e3a4c2cb96525f048245d87a806/starts%20in%20day.png" alt="Ring Generator Preview" width="400">
 
 Play the demo:
 
-<img src="assets/ring.jpg" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Computer-Graphics-Project--A-House-In-a-Rainy-Day-./blob/bc7460b8b7be2e3a4c2cb96525f048245d87a806/Rainy%20House_Demo.gif" alt="Ring Generator Preview" width="400">
 
 
 ## 📥 Installation & Running
